@@ -11,3 +11,4 @@ There's a backdoor to change the superuser's password:
 Place a file named 'superuserPasswordReset' in execution directory of the server. This should contain the superuser's new password.
 
 Within a few seconds the change is made, logged in using the new password, and the 'superuserPasswordReset' file will be securely deleted.
+
